@@ -1,0 +1,15 @@
+.header{
+    padding: 1%;
+    background-color: rgb(103, 236, 95);
+}
+.body{
+    background-color: white;
+    padding: 1%;
+}
+button{
+    background-color:bisque;
+    padding: 2%;
+}
+body{
+    background-color: antiquewhite;
+}
