@@ -1,15 +1,18 @@
-.header{
+header{
     padding: 1%;
-    background-color: rgb(103, 236, 95);
+    background-color: #f2f2f2;
+    display: flex;
+    border: solid 1px black;
 }
-.body{
+body{
     background-color: white;
     padding: 1%;
 }
-button{
-    background-color:bisque;
+.login-button{
     padding: 2%;
-}
-body{
-    background-color: antiquewhite;
+    margin: 3%;
+    height: 30px;
+    align-self: center;
+    border-radius: 10px;
+    margin-left: auto;
 }
