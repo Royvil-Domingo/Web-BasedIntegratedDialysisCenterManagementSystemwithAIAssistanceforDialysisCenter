@@ -5,14 +5,19 @@ header{
     border: solid 1px black;
 }
 body{
+    display: flex;
+    flex-direction: column;
     background-color: white;
     padding: 1%;
 }
-.login-button{
+.login-btn{
     padding: 2%;
     margin: 3%;
     height: 30px;
     align-self: center;
     border-radius: 10px;
     margin-left: auto;
+}
+.logo{
+    margin-right: auto;
 }
