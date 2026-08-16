@@ -4,6 +4,10 @@ header{
     display: flex;
     border: solid 1px black;
 }
+.business-name{
+    margin: 1px 3%;
+    padding: 0;
+}
 body{
     display: flex;
     flex-direction: column;
@@ -14,7 +18,9 @@ body{
     padding: 0.5% 1%;
     margin: 3px;
     height: 30px;
+    align-items: center;
     align-content: center;
+    align-self: center;
     justify-content: center;
     border-radius: 10px;
     margin-left: auto;
