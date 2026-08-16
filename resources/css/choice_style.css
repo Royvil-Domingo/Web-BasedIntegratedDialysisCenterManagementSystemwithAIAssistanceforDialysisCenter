@@ -1,0 +1,18 @@
+.patient-login-btn{
+    background-color: #4CAF50;
+    color: rgb(16, 16, 16);
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.doctor-login-btn{
+    background-color: #008CBA;
+    color: rgb(16, 16, 16);
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
